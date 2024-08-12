@@ -17,3 +17,12 @@ a:hover{
     color:#456;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+table {
+    border: 1px;
+    padding: auto;
+    margin: auto;
+    size: 50%;
+    background-color: antiquewhite;
+
+}
