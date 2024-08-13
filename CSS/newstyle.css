@@ -18,11 +18,20 @@ a:hover{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-table {
-    border: 1px;
-    padding: auto;
-    margin: auto;
-    size: 50%;
-    background-color: antiquewhite;
-
+table,th, td {
+    border: 5px ;
+    height: 30px;
+    border-radius: 10px;
+    border-color: brown;
+    border-collapse:collapse ;
+}
+th, td {
+    background-color: lightblue;
+}
+#THeader{
+    color: black;
+    font-family: 'Times New Roman', Times, serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+    height: 20px;
+    
 }
