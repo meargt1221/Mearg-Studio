@@ -16,7 +16,7 @@ a:hover{
 #welcome {
     color:brown;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 table,th, td {
@@ -24,10 +24,11 @@ table,th, td {
     height: 30px;
     border-radius: 10px;
     border-color: brown;
-    border-collapse:collapse ;
+    border-collapse: none;
 }
 th, td {
-    background-color: lightgoldenrodyellow;
+    background-color: green;
+    color: white;
 }
 #THeader{
     color: black;
@@ -38,5 +39,10 @@ th, td {
 }
 .Days{
    text-indent: 15%;
+}
+#head {
+width: 70px;
+background-color: aqua;
+color: black;
 }
 
