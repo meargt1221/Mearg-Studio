@@ -16,6 +16,7 @@ a:hover{
 #welcome {
     color:brown;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
 }
 
 table,th, td {
